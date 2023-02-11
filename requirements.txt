@@ -1,0 +1,10 @@
+appdirs
+distlib
+filelock
+pyfuncts
+numpy
+PyQt5
+PyQt5-Qt5
+PyQt5-sip
+six
+virtualenv
